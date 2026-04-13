@@ -86,5 +86,869 @@
         <availability available="yes" storeId="14529011" stockCount="10"/>
       </availabilities>
     </offer>
+    <offer sku="102175971">
+      <model>Влажные салфетки Flovell Care 120 шт, розовые</model>
+      <brand>Flovell Care</brand>
+      <price>1333</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="142604016">
+      <model>Бумажные салфетки Карина Dostyq 200 шт</model>
+      <brand>Карина</brand>
+      <price>1220</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107070922">
+      <model>Santex тряпка 614166 3 шт, вискоза</model>
+      <brand>Santex</brand>
+      <price>1361</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="103958889">
+      <model>Maolin туалетная бумага 2 слоя, 10 шт</model>
+      <brand>Maolin</brand>
+      <price>1829</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104962569">
+      <model>Карина туалетная бумага 2-слойный 12 шт, первичная целлюлоза</model>
+      <brand>Карина</brand>
+      <price>3381</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102000657">
+      <model>Liby гель Лайм 1.5 кг</model>
+      <brand>Liby</brand>
+      <price>2871</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101003979">
+      <model>Бумажные салфетки Карина White 100 шт</model>
+      <brand>Карина</brand>
+      <price>1147</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101191540">
+      <model>Фрекен Бок губка Максима 6 шт, поролон</model>
+      <brand>Фрекен Бок</brand>
+      <price>1618</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140441753">
+      <model>Бумажные салфетки Карина белые 24х24 200 шт</model>
+      <brand>Карина</brand>
+      <price>1443</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119986692">
+      <model>Детские влажные салфетки Flovell Care Classic 120 Zelenye 120 шт</model>
+      <brand>Flovell Care</brand>
+      <price>1333</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101191530">
+      <model>PRACTI UNIVERSAL для посуды 5 шт</model>
+      <brand>PRACTI</brand>
+      <price>1481</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112439344">
+      <model>Familia туалетная бумага 2-слойный 32 шт, первичная целлюлоза</model>
+      <brand>Familia</brand>
+      <price>5481</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101752032">
+      <model>Бумажные полотенца Papia ультра впитывающие и прочные 4 шт</model>
+      <brand>Papia</brand>
+      <price>2823</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102650292">
+      <model>Papia туалетная бумага 3-слойный 32 шт, первичная целлюлоза</model>
+      <brand>Papia</brand>
+      <price>7983</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="118347082">
+      <model>Карина туалетная бумага 2-слойный 12 шт</model>
+      <brand>Карина</brand>
+      <price>2737</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140441737">
+      <model>Карина туалетная бумага 2-слойный 8 шт, первичная целлюлоза</model>
+      <brand>Карина</brand>
+      <price>2028</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101671250">
+      <model>Карина туалетная бумага двух-слойный 8 шт, первичная целлюлоза</model>
+      <brand>Карина</brand>
+      <price>2624</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117752201">
+      <model>Детские влажные салфетки JAZZ Mini Wet Wipes 64 шт</model>
+      <brand>JAZZ</brand>
+      <price>1331</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140441747">
+      <model>Бумажные полотенца Карина Dostyq 2-слойное 2 шт</model>
+      <brand>Карина</brand>
+      <price>1464</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101105068">
+      <model>Гель Domestos Ультра Белый 750 мл</model>
+      <brand>Domestos</brand>
+      <price>2588</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102877290">
+      <model>Бумажные полотенца Familia XXL 2 шт</model>
+      <brand>Familia</brand>
+      <price>2157</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101117997">
+      <model>Гель Sanfor Universal Лимонная свежесть 750 г</model>
+      <brand>Sanfor</brand>
+      <price>1824</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112491571">
+      <model>Фрекен Бок салфетки универсальные 3 шт, вискоза</model>
+      <brand>Фрекен Бок</brand>
+      <price>1376</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100709977">
+      <model>Кусковое мыло туалетное Safeguard Family Germ Protection 90 г</model>
+      <brand>Safeguard</brand>
+      <price>1425</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="103343139">
+      <model>Порошок Чистин Ландыш 400 мл 0.4 кг</model>
+      <brand>Чистин</brand>
+      <price>1394</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106483250">
+      <model>Салфетки PAPIRONE Пион 120 шт</model>
+      <brand>PAPIRONE</brand>
+      <price>1279</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101014392">
+      <model>Бумажные салфетки ВСЁ В ДОМ 100 шт</model>
+      <brand>ВСЕ в ДОМ</brand>
+      <price>1158</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="113091770">
+      <model>Влажные детские салфетки Tomiko 120 шт</model>
+      <brand>Tomiko</brand>
+      <price>2569</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="111328658">
+      <model>BRANDFREE отбеливатель-пятновыводитель Кислородный пятновыводитель Я твое средство для всего 1 кг 1000 1</model>
+      <brand>BRANDFREE</brand>
+      <price>3044</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="109574129">
+      <model>Влажные салфетки Flovell Care Jumbo Pack Детские 120 шт синий</model>
+      <brand>Flovell Care</brand>
+      <price>1302</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140052753">
+      <model>Lenor кондиционер Скандинавская Весна 1239 мл</model>
+      <brand>Lenor</brand>
+      <price>4013</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117752199">
+      <model>Детские влажные салфетки Flovell Care Mini Wet Wipes 64 шт розовый</model>
+      <brand>Flovell Care</brand>
+      <price>1282</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101116587">
+      <model>Paclan Standard 60 л 20 шт</model>
+      <brand>Paclan</brand>
+      <price>1897</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="135477272">
+      <model>Жидкое средство Чистин 3в1 Сияющая белизна 0.75 кг</model>
+      <brand>Чистин</brand>
+      <price>1750</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104789646">
+      <model>PAPIRONE туалетная бумага 3-слойный 32 шт, первичная целлюлоза</model>
+      <brand>PAPIRONE</brand>
+      <price>8604</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140873062">
+      <model>Paclan Standart 30 л</model>
+      <brand>Paclan</brand>
+      <price>1470</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101607499">
+      <model>Мелочи жизни губка Пчелка 5 шт, поролон</model>
+      <brand>Мелочи жизни</brand>
+      <price>1849</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100224124">
+      <model>Гель Sanfor Белизна 0.7 л 0.76 кг</model>
+      <brand>Sanfor</brand>
+      <price>2581</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101104919">
+      <model>Бумажные полотенца PAPIRONE Premium 4 шт</model>
+      <brand>PAPIRONE</brand>
+      <price>3027</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108829928">
+      <model>HOME пакет 5932 для фруктов и овощей, для хранения продуктов</model>
+      <brand>HOME</brand>
+      <price>1048</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140441749">
+      <model>Бумажные полотенца Карина Dostyq Бумажное 2-слойное 4 шт</model>
+      <brand>Карина</brand>
+      <price>2073</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101752768">
+      <model>Бумажные полотенца Papia ультра впитывающие и прочные 2 шт</model>
+      <brand>Papia</brand>
+      <price>2176</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114269290">
+      <model>TAZA отбеливатель Кислородный эко 1 кг</model>
+      <brand>TAZA</brand>
+      <price>5145</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115160978">
+      <model>Тряпка 15371313 1 шт, металл</model>
+      <brand>Без бренда</brand>
+      <price>730</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115149667">
+      <model>Persil Color Deep Clean 2.145 л</model>
+      <brand>Persil</brand>
+      <price>11130</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102738075">
+      <model>Papia Bali Flower туалетная бумага 3-слойный 12 шт, первичная целлюлоза</model>
+      <brand>Papia</brand>
+      <price>3727</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112423965">
+      <model>Салфетки PAPIRONE Premium 150 шт</model>
+      <brand>PAPIRONE</brand>
+      <price>1363</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115646771">
+      <model>Tesori d’Oriente кондиционер Византия Ammorbidente Aromatico 760 мл</model>
+      <brand>Tesori d’Oriente</brand>
+      <price>5162</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102193824">
+      <model>Tide Аква-пудра Lenor Color 3 кг</model>
+      <brand>Tide</brand>
+      <price>6356</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104877066">
+      <model>Жидкое мыло туалетное WASHER Универсальное Ягоды 1000 мл</model>
+      <brand>WASHER</brand>
+      <price>2327</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101104954">
+      <model>Кусковое мыло туалетное Safeguard Ромашка 90 г</model>
+      <brand>Safeguard</brand>
+      <price>1531</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100189280">
+      <model>Ariel Color Аква Пудра Насыщенный цвет 3 кг</model>
+      <brand>Ariel</brand>
+      <price>6605</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106483267">
+      <model>Салфетки PAPIRONE Магнолия 120 шт</model>
+      <brand>PAPIRONE</brand>
+      <price>1258</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117752195">
+      <model>Детские влажные салфетки Flovell Care Mini wet wipes Синие 64 шт</model>
+      <brand>Flovell Care</brand>
+      <price>1282</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="103071194">
+      <model>Fairy жидкое FAIRY Сочный лимон средство для мытья посуды 0.9 л</model>
+      <brand>Fairy</brand>
+      <price>2700</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115125987">
+      <model>Фрекен Бок тряпка универсальные 3 шт, вискоза</model>
+      <brand>Фрекен Бок</brand>
+      <price>1464</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107782636">
+      <model>Aqualine тряпка Spul- und Allzwecktuch 3 шт, вискоза</model>
+      <brand>Aqualine</brand>
+      <price>1512</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101101760">
+      <model>Жидкое средство Domestos Хвойная свежесть 750 мл</model>
+      <brand>Domestos</brand>
+      <price>2594</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101102565">
+      <model>Гель Domestos Свежесть Атлантики 750 мл</model>
+      <brand>Domestos</brand>
+      <price>2824</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="140441740">
+      <model>Карина туалетная бумага 2-слойный 32 шт, первичная целлюлоза</model>
+      <brand>Карина</brand>
+      <price>6532</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102953686">
+      <model>Кусковое мыло хозяйственное Весна Классическое Хозяйственное 72% 140 г</model>
+      <brand>Весна</brand>
+      <price>1374</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104884320">
+      <model>Детские влажные салфетки Flovell Care Ultra Sensitive Chamomile 100 шт зелёный</model>
+      <brand>Flovell Care</brand>
+      <price>1295</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106168691">
+      <model>Familia Rainbow White 2-слойный 4 шт, первичная целлюлоза</model>
+      <brand>Familia</brand>
+      <price>1545</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="122844553">
+      <model>Кусковое мыло детское Happy Moon Мыло детское с рождения 90 г</model>
+      <brand>Happy Moon</brand>
+      <price>1046</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100714380">
+      <model>Детские влажные салфетки Yokosun Extra Soft 120 шт</model>
+      <brand>Yokosun</brand>
+      <price>2880</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115646780">
+      <model>Tesori d’Oriente кондиционер Белый Мускус Ammorbidente Aromatico 760 мл</model>
+      <brand>Tesori d’Oriente</brand>
+      <price>4069</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115126003">
+      <model>Persil Глубокое очищение Свежесть от Vernel 2.145 л</model>
+      <brand>Persil</brand>
+      <price>11220</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="113028079">
+      <model>Бумажные полотенца Карина 3 слоя 4 шт</model>
+      <brand>Карина</brand>
+      <price>2635</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101406805">
+      <model>Карина туалетная бумага 2-слойный 12 шт</model>
+      <brand>Карина</brand>
+      <price>2910</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101665727">
+      <model>Фрекен Бок Фламенко Салфетка 6 шт</model>
+      <brand>Фрекен Бок</brand>
+      <price>1910</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="105707239">
+      <model>Детские влажные салфетки Mello влажные салфетки 100 шт</model>
+      <brand>Mello</brand>
+      <price>1781</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104923161">
+      <model>Набережные челны туалетная бумага 1-слойный 1 шт, вторичная целлюлоза</model>
+      <brand>Набережные челны</brand>
+      <price>1023</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108751095">
+      <model>Крем Cif Лимон 0.5 л</model>
+      <brand>Cif</brand>
+      <price>2576</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102167864">
+      <model>Порошок Вантуз Растворитель Волос 0.07 л 0.07 кг</model>
+      <brand>Вантуз</brand>
+      <price>1271</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102212881">
+      <model>Туран Инвест Пласт 25x38 200 шт</model>
+      <brand>Туран Инвест Пласт</brand>
+      <price>1569</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101004125">
+      <model>ВСЁ В ДОМ Туалетная бумага 23 м 10 шт</model>
+      <brand>ВСЕ в ДОМ</brand>
+      <price>3019</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101129030">
+      <model>Perwoll Эффект восстановления для темного 1 л</model>
+      <brand>Perwoll</brand>
+      <price>5238</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="159042169">
+      <model>Liby жидкое Lemon Extract 1.5 кг</model>
+      <brand>Liby</brand>
+      <price>2793</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100234363">
+      <model>FLO кондиционер Pure Breeze 1 л</model>
+      <brand>FLO</brand>
+      <price>2396</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100213169">
+      <model>Ariel Аква Пудра Горный родник 3 кг</model>
+      <brand>Ariel</brand>
+      <price>6115</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119420261">
+      <model>Кусковое мыло туалетное Safeguard Нежный уход с Алоэ 90 г</model>
+      <brand>Safeguard</brand>
+      <price>1531</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101178551">
+      <model>Qualita бумага для выпечки, для хранения продуктов 15 листов</model>
+      <brand>Qualita</brand>
+      <price>1956</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="111249144">
+      <model>Подушка Aline Home 50x70 см, пух искусственный</model>
+      <brand>Aline Home</brand>
+      <price>2342</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="110083248">
+      <model>FLO кондиционер Pure Nature 1000 мл</model>
+      <brand>FLO</brand>
+      <price>2301</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106198334">
+      <model>INTER SHOP шкатулка 410731, искусственная кожа</model>
+      <brand>INTER SHOP</brand>
+      <price>1366</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114483929">
+      <model>Жидкое мыло туалетное Я Самая Bio Пион Ваниль 500 мл</model>
+      <brand>Я Самая</brand>
+      <price>1814</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107529853">
+      <model>Влажные салфетки Flovell Care без запаха 20 шт синий</model>
+      <brand>Flovell Care</brand>
+      <price>815</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116396568">
+      <model>Tide Аква-пудра Color 15 кг</model>
+      <brand>Tide</brand>
+      <price>19705</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100220725">
+      <model>Антижир спрей Sanita 1 минута 500 мл</model>
+      <brand>Sanita</brand>
+      <price>1829</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116427365">
+      <model>Ariel Color Аква Пудра Насыщенный цвет 15 кг</model>
+      <brand>Ariel</brand>
+      <price>23152</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114508143">
+      <model>4YOU Жидкий стиральный порошок Альпийская свежесть 5 л</model>
+      <brand>4YOU</brand>
+      <price>5336</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112640978">
+      <model>Набор органайзеров для нижнего белья белый, серый, 6 шт</model>
+      <brand>Без бренда</brand>
+      <price>3271</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106804112">
+      <model>Гель Domestos Ультра Белый 1250 мл</model>
+      <brand>Domestos</brand>
+      <price>5623</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100189591">
+      <model>Ушастый нянь Для детского белья 2.4 кг</model>
+      <brand>Ушастый нянь</brand>
+      <price>6556</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114982647">
+      <model>Тряпка 384790 5 шт, микрофибра</model>
+      <brand>Без бренда</brand>
+      <price>1048</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101065388">
+      <model>Бумажные полотенца Карина Перья 2 шт</model>
+      <brand>Карина</brand>
+      <price>1643</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="137957046">
+      <model>Туалетная бумага 6-слойный 12 шт, первичная целлюлоза</model>
+      <brand>Без бренда</brand>
+      <price>2058</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117038979">
+      <model>Tomiko Японская сакура 2.1 л</model>
+      <brand>Tomiko</brand>
+      <price>6058</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100189590">
+      <model>Ушастый нянь Для детского белья 0.8 кг</model>
+      <brand>Ушастый нянь</brand>
+      <price>2638</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100623551">
+      <model>Детские влажные салфетки Yokosun Детские Eco 100 шт</model>
+      <brand>Yokosun</brand>
+      <price>1966</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107451066">
+      <model>Детские влажные салфетки Flovell Care Ultra Sensitive Chamomile 100 шт розовый</model>
+      <brand>Flovell Care</brand>
+      <price>1331</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="105603569">
+      <model>Набор вешалок Dunya Plast 204 черный 20 шт</model>
+      <brand>Dunya Plast</brand>
+      <price>2079</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="105976822">
+      <model>FLO кондиционер Pure Sensitive 1000 мл</model>
+      <brand>FLO</brand>
+      <price>2301</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106636593">
+      <model>Жидкое средство Cif Max Effect Ультра Уайт 450 мл</model>
+      <brand>Cif</brand>
+      <price>2911</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100252774">
+      <model>Sanfor отбеливатель-пятновыводитель Белизна 3 в 1 1000 гр</model>
+      <brand>Sanfor</brand>
+      <price>2910</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114508456">
+      <model>4YOU Жидкий стиральный порошок Свежесть сирени 5 л</model>
+      <brand>4YOU</brand>
+      <price>5336</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106702390">
+      <model>Щетка Щетка-скребок для удаления шерсти, катышков и чистка ковров бежевый</model>
+      <brand>Без бренда</brand>
+      <price>1082</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112360466">
+      <model>Полка для ванной без сверления, черная</model>
+      <brand>Без бренда</brand>
+      <price>2076</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
   </offers>
 </kaspi_catalog>
