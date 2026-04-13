@@ -1426,5 +1426,495 @@
         <cityprice cityId="710000000">15022</cityprice>
       </cityprices>
     </offer>
+    <offer sku="111384811">
+      <model>Skyway светоотражающий жилет S09001005 желтый</model>
+      <brand>Skyway</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1280</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110408284">
+      <model>Автокомпрессор REXANT поршневый 80-0524</model>
+      <brand>REXANT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">13741</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114350496">
+      <model>Пылесос автомобильный CAR 2001B</model>
+      <brand>CAR</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7014</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105391486">
+      <model>FOXSUR зарядное устройство FBC122408D</model>
+      <brand>FOXSUR</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">13005</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116160648">
+      <model>Светоотражающий жилет 17817811 зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1307</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102651937">
+      <model>Автокомпрессор TORNADO поршневый Автокомпрессор поршневый АС-580м</model>
+      <brand>TORNADO</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6740</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105870726">
+      <model>FOXSUR зарядное устройство FBC1205D-12V</model>
+      <brand>FOXSUR</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7914</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110408280">
+      <model>Автокомпрессор REXANT поршневый 80-0520 Компрессор автомобильный (40л/мин, 7 АТМ)</model>
+      <brand>REXANT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6742</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="119244615">
+      <model>Автокомпрессор поршневый 30278388_0000055</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">16627</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106526031">
+      <model>Huanyu зарядное устройство HYKC-50A</model>
+      <brand>Huanyu</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11322</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121303111">
+      <model>Светоотражающий жилет ARD52 зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1475</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116144228">
+      <model>AIRLINE знак аварийной остановки AT-05 красный</model>
+      <brand>AIRLINE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">4014</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="100084292">
+      <model>70mai пусковое устройство Jump Starter PS01</model>
+      <brand>70mai</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">35368</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="141286548">
+      <model>АВТО ЛТД знак аварийной остановки DD-312 красный</model>
+      <brand>АВТО ЛТД</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2079</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105903681">
+      <model>MUGA Line ленточный 206B-5TON 5 м</model>
+      <brand>MUGA Line</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2629</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106442747">
+      <model>AIRLINE знак аварийной остановки AT-05 красный</model>
+      <brand>AIRLINE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2700</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="119285783">
+      <model>FOXSUR пуско-зарядное устройство FPT-250</model>
+      <brand>FOXSUR</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">31418</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110395891">
+      <model>Канистра вертикальная 3TON 55298 красная 10 л</model>
+      <brand>3TON</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3629</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="140868665">
+      <model>Автокомпрессор поршневый Компрессор автомобильный двухпоршневой насос для машины</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">14147</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110886365">
+      <model>Знак аварийной остановки 546853 красный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1955</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108542234">
+      <model>High Power пуско-зарядное устройство HPTM15</model>
+      <brand>High Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">15680</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106526030">
+      <model>Huanyu зарядное устройство HYKC-20A</model>
+      <brand>Huanyu</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7039</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117732823">
+      <model>Знак аварийной остановки 546853 красный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1705</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116234630">
+      <model>AVS светоотражающий жилет A40259S зеленый</model>
+      <brand>AVS</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1297</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114936782">
+      <model>Ленточный 30035097_905831 5 м</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2387</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109030553">
+      <model>Канистра вертикальная 3TON 55299 красная 20 л</model>
+      <brand>3TON</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7612</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110395882">
+      <model>Канистра вертикальная 3TON 55297 красная 5 л</model>
+      <brand>3TON</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2776</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114074636">
+      <model>LT-113CT 0.7 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6479</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="22600025">
+      <model>Автокомпрессор Циклон поршневый KS-303</model>
+      <brand>Циклон</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6736</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106871026">
+      <model>Ленточный 123455fg 5 м</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3087</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="139614280">
+      <model>Автокомпрессор Tornado поршневый Компрессор автомобильный AC580</model>
+      <brand>Tornado</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6740</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="132981722">
+      <model>TOPAUTO светоотражающий жилет 20021 зеленый</model>
+      <brand>TOPAUTO</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1311</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="113219350">
+      <model>Xiaomi пусковое устройство Midrive PS01</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">33910</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109438683">
+      <model>Лебедка ручная Led.Lana 16175123 ручная 3 м</model>
+      <brand>Led.Lana</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">22450</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="22600081">
+      <model>Автомобильный компрессор Xiaomi 70mai Air Compressor TP01</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">33818</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104233572">
+      <model>REG пусковые провода 500A 500 А</model>
+      <brand>REG</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2336</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102919703">
+      <model>Huanqiu пуско-зарядное устройство HQKC-50A</model>
+      <brand>Huanqiu</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11146</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="101167951">
+      <model>Huanyu зарядное устройство HYKC-20</model>
+      <brand>Huanyu</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6988</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="139632115">
+      <model>Автокомпрессор поршневый Компрессор автомобильный двухпоршневой насос для машины</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">13969</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116484008">
+      <model>Светоотражающий жилет 85111710001 зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1305</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116489845">
+      <model>Светоотражающий жилет 020624GG зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1519</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="136130541">
+      <model>Linara светоотражающий жилет SVT-001 желтый</model>
+      <brand>Linara</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1383</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108704720">
+      <model>Ленточный ST-206-G 5 м</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5008</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110414575">
+      <model>YT-M2037 1 л черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5499</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116160647">
+      <model>Светоотражающий жилет 17817812 оранжевый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1240</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116489839">
+      <model>Светоотражающий жилет 700012052GBL черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1492</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117903851">
+      <model>King Tools ленточный AE-15T 4 м</model>
+      <brand>King Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5130</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="113361147">
+      <model>AEB знак аварийной остановки HSSJJ-1 красный</model>
+      <brand>AEB</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2203</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106357367">
+      <model>Канистра вертикальная 3300i20L зеленая 20 л</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11020</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
