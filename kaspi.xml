@@ -1986,5 +1986,95 @@
         <cityprice cityId="710000000">34500</cityprice>
       </cityprices>
     </offer>
+    <offer sku="101454638">
+      <model>ELM мультимарочный автосканер 327 Bluetooth v 1.5</model>
+      <brand>ELM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1781</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="131689988">
+      <model>ELM327 мультимарочный 327V1.5</model>
+      <brand>ELM327</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6430</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102929851">
+      <model>KINGBOLEN мультимарочный автосканер ELM327</model>
+      <brand>KINGBOLEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7119</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115170571">
+      <model>ELM мультимарочный автосканер 099688</model>
+      <brand>ELM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1840</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121840902">
+      <model>ELM мультимарочный ELM 327</model>
+      <brand>ELM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">4012</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104579075">
+      <model>ELM мультимарочный автосканер 327</model>
+      <brand>ELM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1989</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="143206616">
+      <model>Kontrolka мультимарочный автосканер Master</model>
+      <brand>Kontrolka</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1525</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104579186">
+      <model>VAG COM 409.1 Диагностический кабель USB</model>
+      <brand>VAG</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6228</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="118723098">
+      <model>ThinkCar мультимарочный автосканер BD6</model>
+      <brand>ThinkCar</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">46363</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
