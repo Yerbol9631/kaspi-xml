@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-04-13"
+    xmlns="kaspiShopping"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Klukva</company>
+  <merchantid>14529011</merchantid>
+  <offers>
+    <offer sku="100976147">
+      <model>Набор столовых приборов Monochrome homeware 24 шт, золотистый 91807</model>
+      <brand>Monochrome homeware</brand>
+      <price>3822</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112066821">
+      <model>Сервиз на 6 персон Modern, предметов: 32, чайно-столовый, керамика</model>
+      <brand>Без бренда</brand>
+      <price>29777</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121934427">
+      <model>Набор столовых приборов A-DANTIK 18 шт, золотистый A-DANTIK-06-18</model>
+      <brand>A-DANTIK</brand>
+      <price>2434</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112939584">
+      <model>Миска 504475 4 шт, нержавеющая сталь, 26х26 см</model>
+      <brand>Без бренда</brand>
+      <price>3886</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="122984948">
+      <model>Миска 5595 6 шт, нержавеющая сталь, 28х28 см</model>
+      <brand>Без бренда</brand>
+      <price>6459</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107118180">
+      <model>Набор тарелок ZAREMA HOME 20 см, 6 шт, керамика</model>
+      <brand>ZAREMA HOME</brand>
+      <price>3018</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="134729210">
+      <model>Набор кружек «Колотый лед и золотистая каемка», 320 мл, стекло, 6 шт.</model>
+      <brand>Без бренда</brand>
+      <price>6465</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121156972">
+      <model>Салатник 5 штук в коллекции 5 шт, стекло, 7.6х17 см</model>
+      <brand>Без бренда</brand>
+      <price>2326</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="110590935">
+      <model>Набор кружек Iceberg, 330 мл, жаропрочное стекло, 4 шт.</model>
+      <brand>Без бренда</brand>
+      <price>3244</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="109242849">
+      <model>Набор столовых приборов High Quality 36 шт, золотистый 17429246</model>
+      <brand>High Quality</brand>
+      <price>7469</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="120011767">
+      <model>Сервиз на 6 персон Katherina Золотая отводка, предметов: 32, чайно-столовый, керамика</model>
+      <brand>Katherina</brand>
+      <price>29829</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121259800">
+      <model>Набор кружек High Quality Iceberg, 308 мл, жаропрочное стекло, 6 шт.</model>
+      <brand>High Quality</brand>
+      <price>3697</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108778493">
+      <model>Набор тарелок 14 см, 6 шт, керамика</model>
+      <brand>Без бренда</brand>
+      <price>3294</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107919536">
+      <model>Набор тарелок 17x17 см, 6 шт, фарфор</model>
+      <brand>Без бренда</brand>
+      <price>3455</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119334262">
+      <model>Набор столовых приборов High Quality 36 шт, золотистый HQ6797</model>
+      <brand>High Quality</brand>
+      <price>7461</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="143897729">
+      <model>Сервиз на 6 персон Katherina , предметов: 32, столовый, керамика</model>
+      <brand>Katherina</brand>
+      <price>29157</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104985483">
+      <model>Астау QazAstau 1 шт, дерево, 70х35 см</model>
+      <brand>QazAstau</brand>
+      <price>17854</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="135093635">
+      <model>Миска Арт 7 шт, нержавеющая сталь, пластик, 30х30 см</model>
+      <brand>Без бренда</brand>
+      <price>11764</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119186282">
+      <model>Миска 566377822 3 шт, нержавеющая сталь, 21х21 см</model>
+      <brand>Без бренда</brand>
+      <price>5976</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104106546">
+      <model>Набор столовых приборов 3 шт, черный FN-101</model>
+      <brand>Без бренда</brand>
+      <price>1656</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="124097584">
+      <model>Набор столовых приборов QSD 18 шт, серебристый, серый S5</model>
+      <brand>QSD</brand>
+      <price>7972</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="130132850">
+      <model>Сервиз на 4 персоны , предметов: 16, столовый, керамика</model>
+      <brand>Без бренда</brand>
+      <price>24810</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121632345">
+      <model>Набор столовых приборов 2 шт, фиолетовый Kuromi</model>
+      <brand>Без бренда</brand>
+      <price>1475</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117420743">
+      <model>Кружка Оригинальное жаропрочное стекло, с золотыми вставками, 400 мл, жаропрочное стекло, 1 шт.</model>
+      <brand>Без бренда</brand>
+      <price>1520</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="128019316">
+      <model>Набор мисок PARDAEV из нержавеющий стали 5 штук с крышкой</model>
+      <brand>PARDAEV</brand>
+      <price>25432</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="110369562">
+      <model>Сервиз на 6 персон Katherina Бронзовая отводка, предметов: 32, чайно-столовый, керамика</model>
+      <brand>Katherina</brand>
+      <price>27916</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112066907">
+      <model>Сервиз на 6 персон , предметов: 32, чайно-столовый, керамика</model>
+      <brand>Без бренда</brand>
+      <price>30771</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="134933656">
+      <model>Набор столовых приборов Vicalina 36 шт, серебристый V-382</model>
+      <brand>Vicalina</brand>
+      <price>21696</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108467632">
+      <model>Тарелка Yiwumart 17 см, 1 шт, фарфор</model>
+      <brand>Yiwumart</brand>
+      <price>1261</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="124024378">
+      <model>Чайная пара белый, 300 мл, фарфор, 6 шт.</model>
+      <brand>Без бренда</brand>
+      <price>10880</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="133294991">
+      <model>Набор тарелок ZAREMA HOME Базовая коллекция 20.5x22.5 см, 6 шт, фарфор</model>
+      <brand>ZAREMA HOME</brand>
+      <price>6481</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="107497211">
+      <model>Сервиз на 6 персон Katherina Бронзовая отводка, предметов: 32, чайно-столовый, керамика</model>
+      <brand>Katherina</brand>
+      <price>29157</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="130181181">
+      <model>Сервиз на 6 персон Gorji home , предметов: 19, столовый, стеклокерамика</model>
+      <brand>Gorji home</brand>
+      <price>19481</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="133843290">
+      <model>Блюдо 3 шт, керамика, 35х35 см</model>
+      <brand>Без бренда</brand>
+      <price>6598</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106222039">
+      <model>Сервиз на 12 персон Posuda Premium Redmond, предметов: 99, чайно-столовый, фарфор</model>
+      <brand>Posuda Premium</brand>
+      <price>52746</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="146926878">
+      <model>Набор пиал Dubay gold 6 шт, 250 мл, фарфор</model>
+      <brand>Dubay gold</brand>
+      <price>4101</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="118292849">
+      <model>Миска 352118629 7 шт, нержавеющая сталь, ABS-пластик, 30х30 см</model>
+      <brand>Без бренда</brand>
+      <price>10773</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="134184223">
+      <model>Набор столовых приборов MasterShef 36 шт, серебристый MF-52</model>
+      <brand>MasterShef</brand>
+      <price>32202</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="134192031">
+      <model>Набор столовых приборов MasterShef 36 шт, золотистый, серебристый MF-50</model>
+      <brand>MasterShef</brand>
+      <price>32202</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="113747842">
+      <model>Сервиз на 12 персон Katherina Золотая отводка, предметов: 48, чайно-столовый, фарфор</model>
+      <brand>Katherina</brand>
+      <price>95845</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="148405824">
+      <model>Набор столовых приборов SLD 36 шт, золотистый Majestic Golg</model>
+      <brand>SLD</brand>
+      <price>17854</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108611835">
+      <model>Сервиз на 6 персон Katherina Золотая отводка, предметов: 32, чайно-столовый, керамика</model>
+      <brand>Katherina</brand>
+      <price>35127</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="142359984">
+      <model>Астау Базовая коллекция 1 шт, дерево, 70х30 см</model>
+      <brand>Без бренда</brand>
+      <price>18597</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="151009371">
+      <model>Набор столовых приборов SLD 36 шт, серебристый Majestic Silver</model>
+      <brand>SLD</brand>
+      <price>16723</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116287000">
+      <model>Кружка «с двойным дном и декором из сублимированных цветов», 350 мл, стекло, 1 шт.</model>
+      <brand>Без бренда</brand>
+      <price>1768</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="100632657">
+      <model>Набор столовых приборов Vicalina 36 шт, серебристый VL352</model>
+      <brand>Vicalina</brand>
+      <price>20460</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="110354766">
+      <model>Сервиз на 12 персон Katherina Золотая отводка, предметов: 48, чайно-столовый, фарфор</model>
+      <brand>Katherina</brand>
+      <price>90649</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="137607850">
+      <model>Миска Арт 7 шт, нержавеющая сталь, пластик, 30х30 см</model>
+      <brand>Без бренда</brand>
+      <price>11891</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121401952">
+      <model>Набор столовых приборов Leevan 36 шт, серебристый Классика</model>
+      <brand>Leevan</brand>
+      <price>21962</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="143881616">
+      <model>Сервиз на 6 персон , предметов: 32, столовый, керамика</model>
+      <brand>Без бренда</brand>
+      <price>40336</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+  </offers>
+</kaspi_catalog>
