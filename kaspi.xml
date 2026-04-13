@@ -2076,5 +2076,365 @@
         <cityprice cityId="710000000">46363</cityprice>
       </cityprices>
     </offer>
+    <offer sku="100909973">
+      <model>DL Audio среднечастотная АС Barracuda 165</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">25801</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="137962651">
+      <model>DL Audio Barracuda HALF-DSP Head Unit 1 DIN</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">39567</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="129589486">
+      <model>BOS-MINI BOS-Y8061MBT 1 DIN универсальная</model>
+      <brand>BOS-MINI</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11764</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="107017043">
+      <model>Сабвуфер COV. Black Sub S</model>
+      <brand>COV.</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">49018</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="101223365">
+      <model>DL Audio среднечастотная АС Barracuda 130</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">25423</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="5701244">
+      <model>Pioneer MVH-S520BT 1 DIN</model>
+      <brand>Pioneer</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">108661</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105784886">
+      <model>DL Audio среднечастотная АС Barracuda 69</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">33907</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110116857">
+      <model>DL Audio среднечастотная АС Barracuda 100</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">23561</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104912886">
+      <model>DL Audio мидбасовая АС Gryphon Pro 165 Midbass</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">40330</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105023852">
+      <model>Сабвуфер SYZX YD-0406</model>
+      <brand>SYZX</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">25429</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103192206">
+      <model>PRIDE среднечастотная АС Pride Onyx5 v2</model>
+      <brand>PRIDE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">34997</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121508100">
+      <model>PRIDE среднечастотная АС SOLO 300 6.5 Competition</model>
+      <brand>PRIDE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">88661</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102702375">
+      <model>Сабвуфер SYZX V-US80</model>
+      <brand>SYZX</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">24921</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106134741">
+      <model>УРАЛ широкополосная АС МОЛНИЯ АС-МЛ165</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19803</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108274368">
+      <model>Audio Nova клемма TT10 1 шт</model>
+      <brand>Audio Nova</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1022</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106134742">
+      <model>УРАЛ широкополосная АС МОЛНИЯ АС-МЛ130</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">18598</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114372480">
+      <model>BOS-MINI BOS-43.4 3000 Вт 4 канальный</model>
+      <brand>BOS-MINI</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19541</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108355273">
+      <model>VSTM джойстик на руль 11571 2 шт</model>
+      <brand>VSTM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6712</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103912853">
+      <model>Pioneer коаксиальная АС TS-A6995S</model>
+      <brand>Pioneer</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">21213</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="5801697">
+      <model>УРАЛ среднечастотная АС TT 130</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19220</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103465445">
+      <model>MDK установочный комплект MD-8 4 шт</model>
+      <brand>MDK</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2824</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106134733">
+      <model>УРАЛ широкополосная АС МОЛНИЯ АС-МЛ100</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">17803</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="145231862">
+      <model>Pioneer 76458 600 Вт 4 канальный</model>
+      <brand>Pioneer</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">15485</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103863339">
+      <model>Pioneer коаксиальная АС TS-A1696S</model>
+      <brand>Pioneer</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">8605</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="5800926">
+      <model>УРАЛ среднечастотная АС TT 165</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">22188</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104818847">
+      <model>PRIDE среднечастотная АС Solo 300</model>
+      <brand>PRIDE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">88661</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121508371">
+      <model>PRIDE среднечастотная АС SOLO 200 6.5 Competition</model>
+      <brand>PRIDE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">66301</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115770792">
+      <model>DL Audio среднечастотная АС Piranha 165 v.2</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">23319</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121140109">
+      <model>Твитер HERTZ</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5376</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="122289300">
+      <model>УРАЛ широкополосная АС Огонь ОГ-165</model>
+      <brand>УРАЛ</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19284</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110903301">
+      <model>CAR 520 для Cadillac</model>
+      <brand>CAR</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7111</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="122812265">
+      <model>DL Audio среднечастотная АС Piranha 100 v2</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">16102</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="100145315">
+      <model>DL Audio среднечастотная АС Gryphon Pro 165</model>
+      <brand>DL Audio</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">37850</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="100076038">
+      <model>Pioneer DEH-S5250BT 1 DIN</model>
+      <brand>Pioneer</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">83755</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="132395156">
+      <model>AurA Storm-525BT 1 DIN универсальная</model>
+      <brand>AurA</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">31095</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="113953658">
+      <model>AurA Storm-545BT 1 DIN универсальная</model>
+      <brand>AurA</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">34119</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
