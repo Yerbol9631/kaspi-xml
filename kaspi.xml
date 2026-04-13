@@ -2436,5 +2436,15 @@
         <cityprice cityId="710000000">34119</cityprice>
       </cityprices>
     </offer>
+    <offer sku="110427415">
+      <model>KINGSTONE 3.00-18 M/C 3.00/70 B18 52P универсальная</model>
+      <brand>KINGSTONE</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">10581</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
