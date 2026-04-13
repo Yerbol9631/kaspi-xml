@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-04-13"
+    xmlns="kaspiShopping"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Klukva</company>
+  <merchantid>14529011</merchantid>
+  <offers>
+    <offer sku="119636421">
+      <model>Комплект Ease 2-спальный хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>Без бренда</brand>
+      <price>6488</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="122521687">
+      <model>Комплект Лиора Сердечки 2-спальный муслин, 2 наволочки: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>5488</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="120091450">
+      <model>Комплект IRINA HOME Nimbus 2-спальный хлопок, жатый хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>IRINA HOME</brand>
+      <price>6386</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="120146992">
+      <model>Комплект Лиора Noon 1.5-спальный хлопок, муслин, 1 наволочка: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>4290</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="131029051">
+      <model>Комплект Ease 1.5-спальный хлопок, муслин, 1 наволочка: 50x70 см</model>
+      <brand>Без бренда</brand>
+      <price>4288</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="115890128">
+      <model>Комплект Florence 2-спальный хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>Без бренда</brand>
+      <price>6832</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="130968388">
+      <model>Комплект Лиора Noon 1.5-спальный хлопок, муслин, 1 наволочка: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>4286</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116641818">
+      <model>Комплект Ease 2-спальный хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>Без бренда</brand>
+      <price>6359</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="133869492">
+      <model>Комплект Лиора День-ночь 2-спальный хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>6655</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="129438452">
+      <model>Наволочка Ромбики 50x70 хлопок, бамбук, 1 шт</model>
+      <brand>Без бренда</brand>
+      <price>550</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="133784770">
+      <model>Комплект LA DIVA Heart 2-спальный хлопок, сатин, 2 наволочки: 50x70 см</model>
+      <brand>LA DIVA</brand>
+      <price>5477</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="128707556">
+      <model>Комплект Лиора Home 2-спальный хлопок, 2 наволочки: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>6571</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="133784772">
+      <model>Комплект LA DIVA Lavender 2-спальный хлопок, сатин, 2 наволочки: 50x70 см</model>
+      <brand>LA DIVA</brand>
+      <price>4894</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="138147811">
+      <model>Комплект Ease 2-спальный хлопок, муслин, 2 наволочки: 50x70 см</model>
+      <brand>Без бренда</brand>
+      <price>6690</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="146091338">
+      <model>Комплект Лиора Розовое облако 1.5-спальный жатый хлопок, муслин, 1 наволочка: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>4508</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="132478531">
+      <model>Комплект Лиора Noon 1-спальный хлопок, муслин, 1 наволочка: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>4289</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="118877032">
+      <model>Комплект Туркменский текстиль Lavender 2-спальный хлопок, кретон, 2 наволочки: 65x65 см</model>
+      <brand>Туркменский текстиль</brand>
+      <price>8800</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="128707594">
+      <model>Комплект Лиора Home 2-спальный хлопок, 2 наволочки: 50x70 см</model>
+      <brand>Лиора</brand>
+      <price>6600</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="153932465">
+      <model>Наволочка Arua Ассорти Рандом 50x70 сатин, поплин, хлопок, 1 шт</model>
+      <brand>Arua</brand>
+      <price>539</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+  </offers>
+</kaspi_catalog>
