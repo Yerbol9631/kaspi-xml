@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-04-13"
+    xmlns="kaspiShopping"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Klukva</company>
+  <merchantid>14529011</merchantid>
+  <offers>
+    <offer sku="108829928">
+      <model>HOME пакет 5932 для фруктов и овощей, для хранения продуктов</model>
+      <brand>HOME</brand>
+      <price>202</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="105920433">
+      <model>Пищевая пленка 0089 универсальное</model>
+      <brand>Без бренда</brand>
+      <price>185</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116709630">
+      <model>Пищевая пленка 216181907 для хранения продуктов, универсальное</model>
+      <brand>Без бренда</brand>
+      <price>174</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106543654">
+      <model>Миска-дуршлаг Базовая коллекция 04049943 28 см пластик, 1 л 1 шт</model>
+      <brand>Без бренда</brand>
+      <price>296</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="113875690">
+      <model>LAIMA бумага для выпечки 608437 для запекания, для выпечки, для замораживания, для хранения продуктов</model>
+      <brand>LAIMA</brand>
+      <price>1980</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="124280283">
+      <model>Пищевая пленка Крышка_пакет для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>121</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108682790">
+      <model>Коврик для посуды AlbioHome микрофибра</model>
+      <brand>AlbioHome</brand>
+      <price>378</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108241721">
+      <model>Держатель бумага</model>
+      <brand>Без бренда</brand>
+      <price>270</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114850592">
+      <model>Пищевая пленка Мишки 100 шт для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>213</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119606622">
+      <model>Пищевая пленка 121921328 для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>197</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="112618415">
+      <model>Пищевая пленка 888818 для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>197</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104511700">
+      <model>Терка 1602199205, пластик, нерж.сталь</model>
+      <brand>Без бренда</brand>
+      <price>894</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="132509865">
+      <model>Коврик для посуды диатомит</model>
+      <brand>Без бренда</brand>
+      <price>479</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="104522041">
+      <model>Чеснокодавка Седьмое небо нержавеющая сталь, 1 шт</model>
+      <brand>Седьмое небо</brand>
+      <price>220</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="113162471">
+      <model>Сушилка отдельностоящая многоярусная ,нержавеющая сталь</model>
+      <brand>Без бренда</brand>
+      <price>5499</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="128764386">
+      <model>POPULAR broun пакет 5516-7777-514 для замораживания, для фруктов и овощей, для хранения продуктов, универсальное</model>
+      <brand>POPULAR broun</brand>
+      <price>164</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="121610769">
+      <model>Пакет 199951605 для фруктов и овощей, для хранения продуктов, универсальное</model>
+      <brand>Без бренда</brand>
+      <price>699</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="116264980">
+      <model>Горница бумага для выпечки 317260 для выпечки, для запекания, для замораживания, универсальное</model>
+      <brand>Горница</brand>
+      <price>1925</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="102897133">
+      <model>Супермаркет Посуды овощерезка 2000000003154, пластик, нерж.сталь</model>
+      <brand>Супермаркет Посуды</brand>
+      <price>242</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119904592">
+      <model>Коврик для посуды резина, микрофибра</model>
+      <brand>Без бренда</brand>
+      <price>801</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106883086">
+      <model>Пищевая пленка 7102122 для фруктов и овощей, для хранения продуктов, универсальное</model>
+      <brand>Без бренда</brand>
+      <price>960</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="119597342">
+      <model>Пакет 30097046_168522199 для замораживания, для фруктов и овощей, для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>1207</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="110432143">
+      <model>Форма для пельменей и вареников нержавеющая сталь 3 шт</model>
+      <brand>Без бренда</brand>
+      <price>451</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="135285803">
+      <model>Лоток-вкладыш ASSORTI пластик, полипропилен</model>
+      <brand>ASSORTI</brand>
+      <price>1641</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="143461962">
+      <model>Ситечко для чая ARS сталь, 3 шт</model>
+      <brand>ARS</brand>
+      <price>835</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108869513">
+      <model>Silicon Power для льда 11022023, силикон</model>
+      <brand>Silicon Power</brand>
+      <price>439</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="137319348">
+      <model>Подставка 2BE пластик</model>
+      <brand>2BE</brand>
+      <price>1082</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="114929391">
+      <model>Коврик для посуды ЭВА</model>
+      <brand>Без бренда</brand>
+      <price>688</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="106377655">
+      <model>Пищевая пленка 399110 для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>158</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108192566">
+      <model>POPULAR broun мешочек 2233-100 для фруктов и овощей, для хранения продуктов, универсальное</model>
+      <brand>POPULAR broun</brand>
+      <price>213</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="149579531">
+      <model>NLVL овощерезка 747467865, нерж.сталь</model>
+      <brand>NLVL</brand>
+      <price>437</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="118767443">
+      <model>Подставка нержавеющая сталь, пластик</model>
+      <brand>Без бренда</brand>
+      <price>1536</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="143469053">
+      <model>Пергамент для выпечки</model>
+      <brand>Без бренда</brand>
+      <price>273</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108352555">
+      <model>POPULAR broun пакет 122344 для хранения продуктов, универсальное</model>
+      <brand>POPULAR broun</brand>
+      <price>187</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117520546">
+      <model>Сушилка HOME отдельностоящая одноярусная ,металл, пластик, дерево</model>
+      <brand>HOME</brand>
+      <price>4288</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="130726673">
+      <model>Лапшерезка MEISTER MS-1512 электрическая</model>
+      <brand>MEISTER</brand>
+      <price>47025</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="117999213">
+      <model>Мешочек 209404926 для хранения продуктов</model>
+      <brand>Без бренда</brand>
+      <price>343</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108960568">
+      <model>Подставка RIM бамбук</model>
+      <brand>RIM</brand>
+      <price>422</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="108100539">
+      <model>Сушилка Martika отдельностоящая одноярусная ,пластик</model>
+      <brand>Martika</brand>
+      <price>2177</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+    <offer sku="101741919">
+      <model>Набор кухонных инструментов hilZz дерево, силикон, 11 шт</model>
+      <brand>hilZz</brand>
+      <price>2605</price>
+      <availabilities>
+        <availability available="yes" storeId="14529011" stockCount="10"/>
+      </availabilities>
+    </offer>
+  </offers>
+</kaspi_catalog>
