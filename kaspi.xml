@@ -6,949 +6,635 @@
   <company>Klukva</company>
   <merchantid>14529011</merchantid>
   <offers>
-    <offer sku="110793575">
-      <model>ALBO DECOR ваза 19 см Классика 702317, гипс</model>
-      <brand>ALBO DECOR</brand>
-      <price>2048</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106722654">
-      <model>TREND DECOR картина Политическая Карта Мира 100x70 см</model>
-      <brand>TREND DECOR</brand>
-      <price>3377</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="124544677">
-      <model>Наклейка для декора Набор бабочек 3D 13x13 см</model>
+    <offer sku="119102364">
+      <model>Игрушка 7490466527</model>
       <brand>Без бренда</brand>
-      <price>1574</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1371</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="130952946">
-      <model>Бабочки золотые наклейка доя декора 13x13 см</model>
+    <offer sku="104530784">
+      <model>Автомобильная визитка Perfeo 105987 черный</model>
+      <brand>Perfeo</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">812</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115433118">
+      <model>AAT колпачок 0062863</model>
+      <brand>AAT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">727</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="118168336">
+      <model>Подсветка RGB LED 345</model>
       <brand>Без бренда</brand>
-      <price>1889</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2265</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="108640260">
-      <model>Часы механические Decor Homes 405405, металл</model>
-      <brand>Decor Homes</brand>
-      <price>15994</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115312584">
-      <model>Ваза 19 см гипс</model>
-      <brand>ALBO DECOR</brand>
-      <price>2166</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106770109">
-      <model>TREND DECOR постер Политическая Карта Мира 140x100 см 140x100 см</model>
-      <brand>TREND DECOR</brand>
-      <price>6742</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="110248201">
-      <model>JANELLE.DECOR ваза 15 см Базовая коллекция 162778, гипс</model>
-      <brand>JANELLE.DECOR</brand>
-      <price>2033</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="120868829">
-      <model>Бабочки серебряные Наклейки для декора 13x10 см</model>
+    <offer sku="129520463">
+      <model>Накидка на подлокотник универсальная, черная</model>
       <brand>Без бренда</brand>
-      <price>1692</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1955</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="140259941">
-      <model>Травянистое растение плющ 100 см, Aisha Decor П_3x1</model>
+    <offer sku="119102360">
+      <model>Игрушка 7490466527, серый</model>
       <brand>Без бренда</brand>
-      <price>5870</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1440</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="102175971">
-      <model>Влажные салфетки Flovell Care 120 шт, розовые</model>
-      <brand>Flovell Care</brand>
-      <price>1333</price>
+    <offer sku="104521401">
+      <model>Auto4exloff органайзер OA7029-2 черный</model>
+      <brand>Auto4exloff</brand>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7853</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="142604016">
-      <model>Бумажные салфетки Карина Dostyq 200 шт</model>
-      <brand>Карина</brand>
-      <price>1220</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="107070922">
-      <model>Santex тряпка 614166 3 шт, вискоза</model>
-      <brand>Santex</brand>
-      <price>1361</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="103958889">
-      <model>Maolin туалетная бумага 2 слоя, 10 шт</model>
-      <brand>Maolin</brand>
-      <price>1829</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="104962569">
-      <model>Карина туалетная бумага 2-слойный 12 шт, первичная целлюлоза</model>
-      <brand>Карина</brand>
-      <price>3381</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102000657">
-      <model>Liby гель Лайм 1.5 кг</model>
-      <brand>Liby</brand>
-      <price>2871</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101003979">
-      <model>Бумажные салфетки Карина White 100 шт</model>
-      <brand>Карина</brand>
-      <price>1147</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101191540">
-      <model>Фрекен Бок губка Максима 6 шт, поролон</model>
-      <brand>Фрекен Бок</brand>
-      <price>1618</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140441753">
-      <model>Бумажные салфетки Карина белые 24х24 200 шт</model>
-      <brand>Карина</brand>
-      <price>1443</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="119986692">
-      <model>Детские влажные салфетки Flovell Care Classic 120 Zelenye 120 шт</model>
-      <brand>Flovell Care</brand>
-      <price>1333</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101191530">
-      <model>PRACTI UNIVERSAL для посуды 5 шт</model>
-      <brand>PRACTI</brand>
-      <price>1481</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="112439344">
-      <model>Familia туалетная бумага 2-слойный 32 шт, первичная целлюлоза</model>
-      <brand>Familia</brand>
-      <price>5481</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101752032">
-      <model>Бумажные полотенца Papia ультра впитывающие и прочные 4 шт</model>
-      <brand>Papia</brand>
-      <price>2823</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102650292">
-      <model>Papia туалетная бумага 3-слойный 32 шт, первичная целлюлоза</model>
-      <brand>Papia</brand>
-      <price>7983</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="118347082">
-      <model>Карина туалетная бумага 2-слойный 12 шт</model>
-      <brand>Карина</brand>
-      <price>2737</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140441737">
-      <model>Карина туалетная бумага 2-слойный 8 шт, первичная целлюлоза</model>
-      <brand>Карина</brand>
-      <price>2028</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101671250">
-      <model>Карина туалетная бумага двух-слойный 8 шт, первичная целлюлоза</model>
-      <brand>Карина</brand>
-      <price>2624</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="117752201">
-      <model>Детские влажные салфетки JAZZ Mini Wet Wipes 64 шт</model>
-      <brand>JAZZ</brand>
-      <price>1331</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140441747">
-      <model>Бумажные полотенца Карина Dostyq 2-слойное 2 шт</model>
-      <brand>Карина</brand>
-      <price>1464</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101105068">
-      <model>Гель Domestos Ультра Белый 750 мл</model>
-      <brand>Domestos</brand>
-      <price>2588</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102877290">
-      <model>Бумажные полотенца Familia XXL 2 шт</model>
-      <brand>Familia</brand>
-      <price>2157</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101117997">
-      <model>Гель Sanfor Universal Лимонная свежесть 750 г</model>
-      <brand>Sanfor</brand>
-      <price>1824</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="112491571">
-      <model>Фрекен Бок салфетки универсальные 3 шт, вискоза</model>
-      <brand>Фрекен Бок</brand>
-      <price>1376</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100709977">
-      <model>Кусковое мыло туалетное Safeguard Family Germ Protection 90 г</model>
-      <brand>Safeguard</brand>
-      <price>1425</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="103343139">
-      <model>Порошок Чистин Ландыш 400 мл 0.4 кг</model>
-      <brand>Чистин</brand>
-      <price>1394</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106483250">
-      <model>Салфетки PAPIRONE Пион 120 шт</model>
-      <brand>PAPIRONE</brand>
-      <price>1279</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101014392">
-      <model>Бумажные салфетки ВСЁ В ДОМ 100 шт</model>
-      <brand>ВСЕ в ДОМ</brand>
-      <price>1158</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="113091770">
-      <model>Влажные детские салфетки Tomiko 120 шт</model>
-      <brand>Tomiko</brand>
-      <price>2569</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="111328658">
-      <model>BRANDFREE отбеливатель-пятновыводитель Кислородный пятновыводитель Я твое средство для всего 1 кг 1000 1</model>
-      <brand>BRANDFREE</brand>
-      <price>3044</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="109574129">
-      <model>Влажные салфетки Flovell Care Jumbo Pack Детские 120 шт синий</model>
-      <brand>Flovell Care</brand>
-      <price>1302</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140052753">
-      <model>Lenor кондиционер Скандинавская Весна 1239 мл</model>
-      <brand>Lenor</brand>
-      <price>4013</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="117752199">
-      <model>Детские влажные салфетки Flovell Care Mini Wet Wipes 64 шт розовый</model>
-      <brand>Flovell Care</brand>
-      <price>1282</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101116587">
-      <model>Paclan Standard 60 л 20 шт</model>
-      <brand>Paclan</brand>
-      <price>1897</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="135477272">
-      <model>Жидкое средство Чистин 3в1 Сияющая белизна 0.75 кг</model>
-      <brand>Чистин</brand>
-      <price>1750</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="104789646">
-      <model>PAPIRONE туалетная бумага 3-слойный 32 шт, первичная целлюлоза</model>
-      <brand>PAPIRONE</brand>
-      <price>8604</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140873062">
-      <model>Paclan Standart 30 л</model>
-      <brand>Paclan</brand>
-      <price>1470</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101607499">
-      <model>Мелочи жизни губка Пчелка 5 шт, поролон</model>
-      <brand>Мелочи жизни</brand>
-      <price>1849</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100224124">
-      <model>Гель Sanfor Белизна 0.7 л 0.76 кг</model>
-      <brand>Sanfor</brand>
-      <price>2581</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101104919">
-      <model>Бумажные полотенца PAPIRONE Premium 4 шт</model>
-      <brand>PAPIRONE</brand>
-      <price>3027</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="108829928">
-      <model>HOME пакет 5932 для фруктов и овощей, для хранения продуктов</model>
-      <brand>HOME</brand>
-      <price>1048</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140441749">
-      <model>Бумажные полотенца Карина Dostyq Бумажное 2-слойное 4 шт</model>
-      <brand>Карина</brand>
-      <price>2073</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101752768">
-      <model>Бумажные полотенца Papia ультра впитывающие и прочные 2 шт</model>
-      <brand>Papia</brand>
-      <price>2176</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="114269290">
-      <model>TAZA отбеливатель Кислородный эко 1 кг</model>
-      <brand>TAZA</brand>
-      <price>5145</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115160978">
-      <model>Тряпка 15371313 1 шт, металл</model>
+    <offer sku="108589903">
+      <model>Оплетка на руль 1803739 M черный</model>
       <brand>Без бренда</brand>
-      <price>730</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1675</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="115149667">
-      <model>Persil Color Deep Clean 2.145 л</model>
-      <brand>Persil</brand>
-      <price>11130</price>
+    <offer sku="103373085">
+      <model>NIBK органайзер 030122 черный</model>
+      <brand>NIBK</brand>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7233</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="102738075">
-      <model>Papia Bali Flower туалетная бумага 3-слойный 12 шт, первичная целлюлоза</model>
-      <brand>Papia</brand>
-      <price>3727</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="112423965">
-      <model>Салфетки PAPIRONE Premium 150 шт</model>
-      <brand>PAPIRONE</brand>
-      <price>1363</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115646771">
-      <model>Tesori d’Oriente кондиционер Византия Ammorbidente Aromatico 760 мл</model>
-      <brand>Tesori d’Oriente</brand>
-      <price>5162</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102193824">
-      <model>Tide Аква-пудра Lenor Color 3 кг</model>
-      <brand>Tide</brand>
-      <price>6356</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="104877066">
-      <model>Жидкое мыло туалетное WASHER Универсальное Ягоды 1000 мл</model>
-      <brand>WASHER</brand>
-      <price>2327</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101104954">
-      <model>Кусковое мыло туалетное Safeguard Ромашка 90 г</model>
-      <brand>Safeguard</brand>
-      <price>1531</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100189280">
-      <model>Ariel Color Аква Пудра Насыщенный цвет 3 кг</model>
-      <brand>Ariel</brand>
-      <price>6605</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106483267">
-      <model>Салфетки PAPIRONE Магнолия 120 шт</model>
-      <brand>PAPIRONE</brand>
-      <price>1258</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="117752195">
-      <model>Детские влажные салфетки Flovell Care Mini wet wipes Синие 64 шт</model>
-      <brand>Flovell Care</brand>
-      <price>1282</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="103071194">
-      <model>Fairy жидкое FAIRY Сочный лимон средство для мытья посуды 0.9 л</model>
-      <brand>Fairy</brand>
-      <price>2700</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115125987">
-      <model>Фрекен Бок тряпка универсальные 3 шт, вискоза</model>
-      <brand>Фрекен Бок</brand>
-      <price>1464</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="107782636">
-      <model>Aqualine тряпка Spul- und Allzwecktuch 3 шт, вискоза</model>
-      <brand>Aqualine</brand>
-      <price>1512</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101101760">
-      <model>Жидкое средство Domestos Хвойная свежесть 750 мл</model>
-      <brand>Domestos</brand>
-      <price>2594</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101102565">
-      <model>Гель Domestos Свежесть Атлантики 750 мл</model>
-      <brand>Domestos</brand>
-      <price>2824</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="140441740">
-      <model>Карина туалетная бумага 2-слойный 32 шт, первичная целлюлоза</model>
-      <brand>Карина</brand>
-      <price>6532</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102953686">
-      <model>Кусковое мыло хозяйственное Весна Классическое Хозяйственное 72% 140 г</model>
-      <brand>Весна</brand>
-      <price>1374</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="104884320">
-      <model>Детские влажные салфетки Flovell Care Ultra Sensitive Chamomile 100 шт зелёный</model>
-      <brand>Flovell Care</brand>
-      <price>1295</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106168691">
-      <model>Familia Rainbow White 2-слойный 4 шт, первичная целлюлоза</model>
-      <brand>Familia</brand>
-      <price>1545</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="122844553">
-      <model>Кусковое мыло детское Happy Moon Мыло детское с рождения 90 г</model>
-      <brand>Happy Moon</brand>
-      <price>1046</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100714380">
-      <model>Детские влажные салфетки Yokosun Extra Soft 120 шт</model>
-      <brand>Yokosun</brand>
-      <price>2880</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115646780">
-      <model>Tesori d’Oriente кондиционер Белый Мускус Ammorbidente Aromatico 760 мл</model>
-      <brand>Tesori d’Oriente</brand>
-      <price>4069</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="115126003">
-      <model>Persil Глубокое очищение Свежесть от Vernel 2.145 л</model>
-      <brand>Persil</brand>
-      <price>11220</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="113028079">
-      <model>Бумажные полотенца Карина 3 слоя 4 шт</model>
-      <brand>Карина</brand>
-      <price>2635</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101406805">
-      <model>Карина туалетная бумага 2-слойный 12 шт</model>
-      <brand>Карина</brand>
-      <price>2910</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101665727">
-      <model>Фрекен Бок Фламенко Салфетка 6 шт</model>
-      <brand>Фрекен Бок</brand>
-      <price>1910</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="105707239">
-      <model>Детские влажные салфетки Mello влажные салфетки 100 шт</model>
-      <brand>Mello</brand>
-      <price>1781</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="104923161">
-      <model>Набережные челны туалетная бумага 1-слойный 1 шт, вторичная целлюлоза</model>
-      <brand>Набережные челны</brand>
-      <price>1023</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="108751095">
-      <model>Крем Cif Лимон 0.5 л</model>
-      <brand>Cif</brand>
-      <price>2576</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102167864">
-      <model>Порошок Вантуз Растворитель Волос 0.07 л 0.07 кг</model>
-      <brand>Вантуз</brand>
-      <price>1271</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="102212881">
-      <model>Туран Инвест Пласт 25x38 200 шт</model>
-      <brand>Туран Инвест Пласт</brand>
-      <price>1569</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101004125">
-      <model>ВСЁ В ДОМ Туалетная бумага 23 м 10 шт</model>
-      <brand>ВСЕ в ДОМ</brand>
-      <price>3019</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101129030">
-      <model>Perwoll Эффект восстановления для темного 1 л</model>
-      <brand>Perwoll</brand>
-      <price>5238</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="159042169">
-      <model>Liby жидкое Lemon Extract 1.5 кг</model>
-      <brand>Liby</brand>
-      <price>2793</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100234363">
-      <model>FLO кондиционер Pure Breeze 1 л</model>
-      <brand>FLO</brand>
-      <price>2396</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100213169">
-      <model>Ariel Аква Пудра Горный родник 3 кг</model>
-      <brand>Ariel</brand>
-      <price>6115</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="119420261">
-      <model>Кусковое мыло туалетное Safeguard Нежный уход с Алоэ 90 г</model>
-      <brand>Safeguard</brand>
-      <price>1531</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="101178551">
-      <model>Qualita бумага для выпечки, для хранения продуктов 15 листов</model>
-      <brand>Qualita</brand>
-      <price>1956</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="111249144">
-      <model>Подушка Aline Home 50x70 см, пух искусственный</model>
-      <brand>Aline Home</brand>
-      <price>2342</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="110083248">
-      <model>FLO кондиционер Pure Nature 1000 мл</model>
-      <brand>FLO</brand>
-      <price>2301</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106198334">
-      <model>INTER SHOP шкатулка 410731, искусственная кожа</model>
-      <brand>INTER SHOP</brand>
-      <price>1366</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="114483929">
-      <model>Жидкое мыло туалетное Я Самая Bio Пион Ваниль 500 мл</model>
-      <brand>Я Самая</brand>
-      <price>1814</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="107529853">
-      <model>Влажные салфетки Flovell Care без запаха 20 шт синий</model>
-      <brand>Flovell Care</brand>
-      <price>815</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="116396568">
-      <model>Tide Аква-пудра Color 15 кг</model>
-      <brand>Tide</brand>
-      <price>19705</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100220725">
-      <model>Антижир спрей Sanita 1 минута 500 мл</model>
-      <brand>Sanita</brand>
-      <price>1829</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="116427365">
-      <model>Ariel Color Аква Пудра Насыщенный цвет 15 кг</model>
-      <brand>Ariel</brand>
-      <price>23152</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="114508143">
-      <model>4YOU Жидкий стиральный порошок Альпийская свежесть 5 л</model>
-      <brand>4YOU</brand>
-      <price>5336</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="112640978">
-      <model>Набор органайзеров для нижнего белья белый, серый, 6 шт</model>
+    <offer sku="138346457">
+      <model>Защитная накладка 221020012</model>
       <brand>Без бренда</brand>
-      <price>3271</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1218</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="106804112">
-      <model>Гель Domestos Ультра Белый 1250 мл</model>
-      <brand>Domestos</brand>
-      <price>5623</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100189591">
-      <model>Ушастый нянь Для детского белья 2.4 кг</model>
-      <brand>Ушастый нянь</brand>
-      <price>6556</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="114982647">
-      <model>Тряпка 384790 5 шт, микрофибра</model>
+    <offer sku="117260648">
+      <model>Зеркало для слепых зон 523762120</model>
       <brand>Без бренда</brand>
-      <price>1048</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1396</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="101065388">
-      <model>Бумажные полотенца Карина Перья 2 шт</model>
-      <brand>Карина</brand>
-      <price>1643</price>
+    <offer sku="108977884">
+      <model>Автомобильная визитка CAR 683684 черный</model>
+      <brand>CAR</brand>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1408</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="137957046">
-      <model>Туалетная бумага 6-слойный 12 шт, первичная целлюлоза</model>
+    <offer sku="118589220">
+      <model>Органайзер автомобильный в багажник, черный. 45 литров. YaNi</model>
       <brand>Без бренда</brand>
-      <price>2058</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7280</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="117038979">
-      <model>Tomiko Японская сакура 2.1 л</model>
-      <brand>Tomiko</brand>
-      <price>6058</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100189590">
-      <model>Ушастый нянь Для детского белья 0.8 кг</model>
-      <brand>Ушастый нянь</brand>
-      <price>2638</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100623551">
-      <model>Детские влажные салфетки Yokosun Детские Eco 100 шт</model>
-      <brand>Yokosun</brand>
-      <price>1966</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="107451066">
-      <model>Детские влажные салфетки Flovell Care Ultra Sensitive Chamomile 100 шт розовый</model>
-      <brand>Flovell Care</brand>
-      <price>1331</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="105603569">
-      <model>Набор вешалок Dunya Plast 204 черный 20 шт</model>
-      <brand>Dunya Plast</brand>
-      <price>2079</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="105976822">
-      <model>FLO кондиционер Pure Sensitive 1000 мл</model>
-      <brand>FLO</brand>
-      <price>2301</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106636593">
-      <model>Жидкое средство Cif Max Effect Ультра Уайт 450 мл</model>
-      <brand>Cif</brand>
-      <price>2911</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="100252774">
-      <model>Sanfor отбеливатель-пятновыводитель Белизна 3 в 1 1000 гр</model>
-      <brand>Sanfor</brand>
-      <price>2910</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="114508456">
-      <model>4YOU Жидкий стиральный порошок Свежесть сирени 5 л</model>
-      <brand>4YOU</brand>
-      <price>5336</price>
-      <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
-      </availabilities>
-    </offer>
-    <offer sku="106702390">
-      <model>Щетка Щетка-скребок для удаления шерсти, катышков и чистка ковров бежевый</model>
+    <offer sku="118168464">
+      <model>Пружина стеклоочистителя 11991618</model>
       <brand>Без бренда</brand>
-      <price>1082</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1015</cityprice>
+      </cityprices>
     </offer>
-    <offer sku="112360466">
-      <model>Полка для ванной без сверления, черная</model>
+    <offer sku="128441957">
+      <model>Игрушка FT13839</model>
       <brand>Без бренда</brand>
-      <price>2076</price>
       <availabilities>
-        <availability available="yes" storeId="14529011" stockCount="10"/>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
       </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1389</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116481203">
+      <model>Подвеска Худи чехол на рычаг коробки передач КПП авто красный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1270</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117587765">
+      <model>Подсветка 228381184</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3458</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102373265">
+      <model>Пепельница KING POWER 4sa черный</model>
+      <brand>KING POWER</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1705</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="147161553">
+      <model>Защитная накладка Hyundai Tucson 2023-2025</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7983</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="123586356">
+      <model>Наполнитель зазора сидений 672921355</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1792</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="122931221">
+      <model>Колпачок зелёный 11110007</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1197</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="130099406">
+      <model>AAT TPE16018037 универсальная универсальная универсальный черный</model>
+      <brand>AAT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3516</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120200751">
+      <model>Игрушка WB00432</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1525</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109602677">
+      <model>Пакеты для шин 15032023 XL белый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1407</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116207492">
+      <model>Подстаканник 934465 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1321</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116666550">
+      <model>АвтоХит чехол 9753235 37-39 см M черный</model>
+      <brand>АвтоХит</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3341</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="129866921">
+      <model>Игрушка 211693202</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1773</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117574109">
+      <model>Подушка Top Race 6030083 400x400 см черный</model>
+      <brand>Top Race</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1610</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121379182">
+      <model>Игрушка JM58569</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1828</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="146762540">
+      <model>Пружина для дворника</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1146</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="112024878">
+      <model>Тент Чехол для мотоцикла, скутера, мопеда XL серый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6656</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102776534">
+      <model>Kaizen органайзер С862021CO черный</model>
+      <brand>Kaizen</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">10466</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108203658">
+      <model>Cartage чехол на руль 3942781 M черный</model>
+      <brand>Cartage</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1681</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120096375">
+      <model>Сетка 7288</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1880</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="123588456">
+      <model>Чехлы для шин 189063369 L черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6389</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="138910499">
+      <model>универсальный черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11761</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="118218574">
+      <model>Колпачек RPX-NEON-GR</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1316</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116304446">
+      <model>AAT игрушка игрушка спящий панда плюшевый</model>
+      <brand>AAT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2078</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120657346">
+      <model>Подстаканник X_KZ черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1706</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="128488735">
+      <model>Тент на машины всех видов 2XL серебристый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7237</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103555065">
+      <model>Накидка Cardinar универсальный черный</model>
+      <brand>Cardinar</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19096</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="112266537">
+      <model>Табличка Номер телефона 13x2 см</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1825</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="113458420">
+      <model>Fashion Car универсальная универсальная универсальный красный, черный</model>
+      <brand>Fashion Car</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19220</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="142880898">
+      <model>заглушка для ремня безопасности с ключом, 2шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1560</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="148309249">
+      <model>Украшение для машины</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1393</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114983855">
+      <model>Подсветка RS000021</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2323</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109751658">
+      <model>универсальный черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">29771</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104782491">
+      <model>Подушка NaЗдоровье 196128 на сиденье 40x40 см черный</model>
+      <brand>NaЗдоровье</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7234</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="118067859">
+      <model>Игрушка 060343IS игрушка</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2200</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109001392">
+      <model>Органайзер 109001392 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">6492</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114850211">
+      <model>Оплетка 370527 37-39 см M коричневый, черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2873</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="131384116">
+      <model>8463839 Chevrolet Cobalt 2013-2024 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">24188</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="130455456">
+      <model>ARGO футляр для очков 556949767</model>
+      <brand>ARGO</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3090</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="130946716">
+      <model>Игрушка Самурай 4866694</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1605</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="139661043">
+      <model>UZB COBR4 Chevrolet Cobalt 2014-2025 серый</model>
+      <brand>UZB</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">11022</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105201439">
+      <model>Autozs силиконовая оплетка на руль 18238802 L черный</model>
+      <brand>Autozs</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2448</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109956704">
+      <model>Автомобильная визитка 77541236 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1424</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="140168543">
+      <model>универсальный прозрачный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2265</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="131553407">
+      <model>Тент Автомобильный Тент XL серебристый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7487</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116843974">
+      <model>Автомобильная визитка 190018908 черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1079</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117804071">
+      <model>АвтоВаз 2114 100 3234 упор крышки багажника для Lada 2108, 2109, 2113, 2114 2002-2000 черный</model>
+      <brand>АвтоВаз</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5376</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="128183102">
+      <model>Nikel5589002 Chevrolet Cobalt 2012-2024 серый, черный</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5106</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108999645">
+      <model>Щетка каркасная Alca 000400400 400 мм, 1 шт</model>
+      <brand>Alca</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1333</cityprice>
+      </cityprices>
     </offer>
   </offers>
 </kaspi_catalog>
