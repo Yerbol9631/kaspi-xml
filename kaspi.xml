@@ -1916,5 +1916,75 @@
         <cityprice cityId="710000000">11020</cityprice>
       </cityprices>
     </offer>
+    <offer sku="100824360">
+      <model>StarLine A93 V2 Eco с обратной связью</model>
+      <brand>StarLine</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">83692</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120635505">
+      <model>StarLine A93 V2 Eco с обратной связью</model>
+      <brand>StarLine</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">83692</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117808228">
+      <model>Tomahawk TW-9010 с обратной связью</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">22947</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106805356">
+      <model>BOS-MINI BM-686A центральный замок</model>
+      <brand>BOS-MINI</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5501</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="151642585">
+      <model>StarLine E97 LoRa ECO KZ с обратной связью</model>
+      <brand>StarLine</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">94997</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="159815129">
+      <model>StarLine A91 с обратной связью</model>
+      <brand>StarLine</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">33501</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="160140827">
+      <model>StarLine Starline A91+BP03 с обратной связью</model>
+      <brand>StarLine</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">34500</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
