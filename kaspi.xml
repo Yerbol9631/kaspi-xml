@@ -926,5 +926,155 @@
         <cityprice cityId="710000000">17978</cityprice>
       </cityprices>
     </offer>
+    <offer sku="112845221">
+      <model>AC Cobalt R15 6x15/4x100 D56 ET39 4 диска серебристый</model>
+      <brand>AC</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">177793</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104079003">
+      <model>ТЗСК 2112 5.5x14/4x98 D58.6 ET35 4 диска серый</model>
+      <brand>ТЗСК</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="7"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">62699</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117790419">
+      <model>Chevrolet cobalt15 6x15/4x100 D56.6 ET39 4 диска черный</model>
+      <brand>Chevrolet</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">90028</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="138487908">
+      <model>Kipardo GM 6x15/4x100 D56.6 ET39 4 диска черный</model>
+      <brand>Kipardo</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">178937</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117786897">
+      <model>ТЗСК ВАЗ (LADA) 5.5x14/4x98 D58.5 ET35 1 диск серый, зеленый</model>
+      <brand>ТЗСК</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="7"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">20955</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106295766">
+      <model>UZ-DAEWOO Cobalt 5.5x14/4x100 D56.5 ET39 4 диска черный</model>
+      <brand>UZ-DAEWOO</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">79966</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="123926962">
+      <model>DEXTRA DX_3302-3101015-01 (16х5.5) 5.5x16/6x170 D130 ET106 1 диск серебристый</model>
+      <brand>DEXTRA</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">29655</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114128897">
+      <model>Chevrolet 601238 6x15/4x100 D56.6 ET39 4 диска серебристый</model>
+      <brand>Chevrolet</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">182449</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115994860">
+      <model>Kipardo 155188 6x15/4x100 D56.6 ET39 4 диска серебристый</model>
+      <brand>Kipardo</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">195617</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117789209">
+      <model>ТЗСК ВАЗ/LADA 5.5x14/4x98 D58.5 ET35 1 диск черный</model>
+      <brand>ТЗСК</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="7"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19596</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="113743033">
+      <model>AC GM диск cobalt,R4 56.6 ET39 6x15/4x100 D56 ET39 4 диска серебристый</model>
+      <brand>AC</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">179864</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="114028638">
+      <model>Chevrolet Chevrolet 337 6x15/4x100 D56.6 ET39 4 диска серебристый</model>
+      <brand>Chevrolet</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">179512</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="146049757">
+      <model>BTRW Газель усил. 1350kg 5.5x16/6x170 D130 ET106 1 диск серебристый</model>
+      <brand>BTRW</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">30214</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="105089547">
+      <model>Torus L332 6x15/4x98 D58.6 ET35 4 диска серебристый</model>
+      <brand>Torus </brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="7"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">203070</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117786908">
+      <model>Chevrolet Chevrolet 7x16/5x105 D56.6 ET41 4 диска серебристый, серый</model>
+      <brand>Chevrolet</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">160822</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
