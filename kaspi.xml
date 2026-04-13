@@ -2286,5 +2286,65 @@
         <cityprice cityId="710000000">34500</cityprice>
       </cityprices>
     </offer>
+    <offer sku="122002734">
+      <model>Сигнал электромагнитный 0956728</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5376</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="124107570">
+      <model>DIKAM противотуманная фара CHEVROLET COBALT/RAVON R4 32W 12V 5000k</model>
+      <brand>DIKAM</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">16736</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="110576879">
+      <model>REXANT держатель предохранителя 16-0421-4 1 шт</model>
+      <brand>REXANT</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1084</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120550237">
+      <model>Fazoom противотуманная фара 3.0&quot; LADA GRANTA/LARGUS/KALINA 35W 12V 5500k</model>
+      <brand>Fazoom</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">17991</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="102805959">
+      <model>Сигнал электропневматический Волга C302303</model>
+      <brand>Волга</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="6"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">3391</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115430397">
+      <model>Valeo противотуманная фара 334238</model>
+      <brand>Valeo</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7114</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
