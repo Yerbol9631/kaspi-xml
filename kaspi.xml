@@ -296,5 +296,295 @@
         <cityprice cityId="710000000">5745</cityprice>
       </cityprices>
     </offer>
+    <offer sku="108019761">
+      <model>Автолампа МАЯК 61205БЦ накаливания, 1 шт</model>
+      <brand>Маяк</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">810</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="124389369">
+      <model>Osram 64193NB220-2HB галогенная H4, 2 шт</model>
+      <brand>Osram</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">16735</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="120208047">
+      <model>974356 светодиодная W5W, 2 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1135</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="109891496">
+      <model>Автолампа DRL 33325 светодиодная, 2 шт</model>
+      <brand>DRL</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5943</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116933583">
+      <model>LED YBA15s1441260npo2b светодиодная PY21W, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2135</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116957239">
+      <model>LED WBA15S1441260np02b светодиодная P21W, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2063</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="119985176">
+      <model>Neo NT104300H4 светодиодная H4, 2 шт</model>
+      <brand>NEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">12013</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106791088">
+      <model>Cartage 4449978 светодиодная C5W, 1 шт</model>
+      <brand>Cartage</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">815</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116672903">
+      <model>LED 241788227 светодиодная H1, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="2"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5342</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116610395">
+      <model>043894851 светодиодная P21W, 1 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1444</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="141075304">
+      <model>LED T10 светодиодная W5W, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1905</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103720649">
+      <model>Osram 64193 галогенная H4, 1 шт</model>
+      <brand>Osram</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="7"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2193</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117312726">
+      <model>DOMAX New2026_S120pro6000k светодиодная HB3, 2 шт</model>
+      <brand>DOMAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">19200</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116957242">
+      <model>LED RBAY15D1441260np02b светодиодная P21/5W, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2449</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="100819720">
+      <model>Osram 64210 галогенная H7, 1 шт</model>
+      <brand>Osram</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">2448</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="132600853">
+      <model>LED 4300 светодиодная H4, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7969</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108940181">
+      <model>Art98i светодиодная W5W, 1 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">767</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115719777">
+      <model>Автолампа G433-FL31201 светодиодная, 2 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1757</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117923773">
+      <model>Вiлуч Н4 галогенная H4, 1 шт</model>
+      <brand>Вiлуч</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1955</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="123147185">
+      <model>Osram 64193CBN галогенная H4, 1 шт</model>
+      <brand>Osram</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5499</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117022285">
+      <model>LIGHT COMPANY 7609560 светодиодная P21W, 2 шт</model>
+      <brand>LIGHT COMPANY</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">1941</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106791091">
+      <model>Автолампа Cartage 4449979 светодиодная, 1 шт</model>
+      <brand>Cartage</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">815</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="103993632">
+      <model>Автолампа LIGHT COMPANY 093008 светодиодная, 2 шт</model>
+      <brand>LIGHT COMPANY</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5733</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="130378869">
+      <model>LED 111314915 светодиодная H1, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5499</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="117330554">
+      <model>DOMAX DR17715 светодиодная H11, 2 шт</model>
+      <brand>DOMAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">17977</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108940183">
+      <model>Art85j светодиодная W5W, 1 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">767</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="133188545">
+      <model>LED 4300K светодиодная H4, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">7983</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="123436956">
+      <model>LED A51 светодиодная H1, 2 шт</model>
+      <brand>LED</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="5"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">5499</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="137287088">
+      <model>Osram 64193CBN-2HB галогенная H4, 2 шт</model>
+      <brand>Osram</brand>
+      <availabilities>
+        <availability available="yes" storeId="14529011_PP1" preOrder="4"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="710000000">15022</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
